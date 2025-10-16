@@ -1,0 +1,18 @@
+Instalação com requirements.tx
+    pip install -r requirements.txt
+    
+Função page.goto
+    Para ir até a pagina que queremos.
+    
+Função page.pause
+    pausa o teste no local onde for adicionado e abre o inspencionar
+
+Função assert
+    para verificar algo na pagina
+
+ pytest --headed --browser=firefox test\test_primeiro.py
+    Executar o pytest, --headed(não ficar em background), --browser(qual navegador usar)
+
+Local onde fica os navegadores
+    C:\Users\wesll\AppData\Local\ms-playwright
+

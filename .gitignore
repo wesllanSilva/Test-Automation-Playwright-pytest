@@ -1,0 +1,57 @@
+# ============================
+# Gitignore - Projeto Python / Playwright / Pytest
+# ============================
+
+# Ambiente virtual
+.venv/
+venv/
+env/
+ENV/
+
+# Arquivos de configuração locais
+*.env
+*.local
+*.ini
+*.toml
+
+# Cache e arquivos temporários do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+
+# Logs e relatórios
+*.log
+logs/
+reports/
+report/
+allure-results/
+allure-report/
+htmlcov/
+
+# Pytest e Coverage
+.cache/
+.pytest_cache/
+.coverage
+coverage.xml
+coverage/
+*.cover
+
+# Configurações do Playwright
+playwright-report/
+test-results/
+trace.zip
+*.trace.zip
+*.webm
+*.mp4
+
+# Arquivos gerados pelo build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Notebooks e tempo
