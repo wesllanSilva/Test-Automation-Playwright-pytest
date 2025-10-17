@@ -22,7 +22,7 @@ O **Playwright**, é uma das ferramentas mais modernas e completas para **automa
 
 ## 🚀 Conteúdo e Evolução
 
-Cada pasta deste repositório representa uma etapa da evolução no estudo, com **anotações**, **exercícios** e **implementações práticas**.
+ Etapa da evolução no estudo, com **anotações**, **exercícios** e **implementações práticas**.
 
 ### 🔹Fundamentos
 - Instalação do Python e configuração do ambiente virtual  
